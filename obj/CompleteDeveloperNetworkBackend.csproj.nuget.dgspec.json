@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj": {}
+    "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj": {
+    "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
         "projectName": "CompleteDeveloperNetworkBackend",
-        "projectPath": "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
+        "projectPath": "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

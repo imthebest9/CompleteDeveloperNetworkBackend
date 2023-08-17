@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMtYOS3sqiifjZxWaclWPJbDkoAkYe+30dHTiBvlrAImnC7IaJBD/DVHFV9jXPYxOsQErTTb+goOPvjxrCnHDQ==",
+  "dgSpecHash": "fz1zDsGE2VxL+57h3klqdNbHbG5dW+DCMueo0EXsJblHflKSJCSgm3UOfBtDL2q8qgc2+RPlISQhVvT3DUiUcA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Projects\\CompleteDeveloperNetworkBackend\\CompleteDeveloperNetworkBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
